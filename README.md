@@ -8,3 +8,4 @@
 -- List.filter(callback(current value [, index [, list]])) Takes one argument, a callback to a function that returns true if the current element should be retained and false if it should be excluded. Returns array with "true" values. Callback takes optional index and list arguments.
 
 -- List.push(), List.map(), List,reduce() were pretty much given by Judy
+

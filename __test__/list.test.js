@@ -41,7 +41,7 @@ describe('A list class of tests', () => {
     const newList = myList.map((num) => {
       return num * 2;
     });
-    expect(newList.length).toEqual(myList.length);
+    expect(newList.length).toEqual(myList.length); //eslint-disable-line
     for (let i = 0; i < newList.length; i++) {
       expect(newList[i] / 2).toEqual(myList[i]);
     }
@@ -79,3 +79,4 @@ describe('A list class of tests', () => {
     }).toThrow();
   });
 });
+
