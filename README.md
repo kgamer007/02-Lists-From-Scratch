@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/kgamer007/02-Lists-From-Scratch.svg?branch=master)](https://travis-ci.org/kgamer007/02-Lists-From-Scratch)
+
 ##  Documentation
 -- Implemented the following methods on the List class as part of this lab:
 
